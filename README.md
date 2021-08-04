@@ -1,0 +1,5 @@
+- 👋 Hey, I’m @rodelliott
+- 👀 I’m interested in web development, hiking and watch collecting.
+- 🌱 I’m currently learning Swift and Kotlin.
+- 💞️ I’m looking to collaborate on any app.
+- 📫 Email me@rodelliott.com
